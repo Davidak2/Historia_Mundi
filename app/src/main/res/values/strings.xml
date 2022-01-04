@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Historia_Mundi</string>
+
+    <string name="API_KEY">AIzaSyC7S5hbYIfJ_dBncLzn17_HX3rmNsM8sL0</string>
+
+    <string name="login_string">Already Have An Account? <b> Login Here </b> </string>
+
+    <string name="open_navigation_drawer">Open Drawer</string>
+
+    <string name="close_navigation_drawer">Close Drawer</string>
+</resources>

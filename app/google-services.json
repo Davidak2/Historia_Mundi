@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169564854039",
+    "project_id": "historia-mundi",
+    "storage_bucket": "historia-mundi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169564854039:android:dc5acc1b320a21223e8952",
+        "android_client_info": {
+          "package_name": "com.example.historia_mundi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169564854039-37at41lk2rmmq718ga2m2enq83jpffm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.historia_mundi",
+            "certificate_hash": "a28a99d05c9b03532318bf9d427da6498e6125c6"
+          }
+        },
+        {
+          "client_id": "169564854039-07cvmu7uveu32roi5lc0euutq2pkso78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlFLdJkNWEobDz5kyW-Lkv4K9hAXUktDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169564854039-07cvmu7uveu32roi5lc0euutq2pkso78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
