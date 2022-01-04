@@ -362,8 +362,7 @@ public class HomeFragment extends Fragment implements OnMapReadyCallback {
             String url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="
                     + currentLocation.getLatitude() + "," + currentLocation.getLongitude()
                     + "&radius=" + radius + "&type=" + placeName + "&key=" +
-                    getResources().getString(/*R.string.API_KEY*/);
-
+                    getResources().getString(R.string.API_KEY);
             if(currentLocation != null)
             {
                 retroFitAPI.getNearByPlaces(url).enqueue(new Callback<GoogleResponseModel>() {
